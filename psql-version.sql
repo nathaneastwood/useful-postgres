@@ -1,0 +1,1 @@
+SELECT SUBSTRING(VERSION() FROM '(.+?) on');
